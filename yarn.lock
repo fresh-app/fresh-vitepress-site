@@ -126,9 +126,9 @@
     "@algolia/requester-common" "4.17.0"
 
 "@babel/parser@^7.16.4":
-  version "7.21.4"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.21.4.tgz#94003fdfc520bbe2875d4ae557b43ddb6d880f17"
-  integrity sha512-alVJj7k7zIxqBZ7BTRhz0IqJFxW1VJbm6N8JbcYhQ186df9ZBPbZBmWSqAMXwHGsCJdYks7z/voa3ibiS5bCIw==
+  version "7.21.5"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.21.5.tgz#821bb520118fd25b982eaf8d37421cf5c64a312b"
+  integrity sha512-J+IxH2IsxV4HbnTrSWgMAQj0UEo61hDA4Ny8h8PCX0MLXiibqHbqIOVneqdocemSBc22VpBKxt4J6FQzy9HarQ==
 
 "@docsearch/css@3.3.4", "@docsearch/css@^3.3.3":
   version "3.3.4"
@@ -517,9 +517,9 @@ rollup@^3.21.0:
     fsevents "~2.3.2"
 
 shiki@^0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.14.1.tgz#9fbe082d0a8aa2ad63df4fbf2ee11ec924aa7ee1"
-  integrity sha512-+Jz4nBkCBe0mEDqo1eKRcCdjRtrCjozmcbTUjbPTX7OOJfEbTZzlUWlZtGe3Gb5oV1/jnojhG//YZc3rs9zSEw==
+  version "0.14.2"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.14.2.tgz#d51440800b701392b31ce2336036058e338247a1"
+  integrity sha512-ltSZlSLOuSY0M0Y75KA+ieRaZ0Trf5Wl3gutE7jzLuIcWxLp5i/uEnLoQWNvgKXQ5OMpGkJnVMRLAuzjc0LJ2A==
   dependencies:
     ansi-sequence-parser "^1.1.0"
     jsonc-parser "^3.2.0"
