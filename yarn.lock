@@ -126,9 +126,9 @@
     "@algolia/requester-common" "4.17.1"
 
 "@babel/parser@^7.20.15", "@babel/parser@^7.21.3":
-  version "7.22.0"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.22.0.tgz#b23786d26c2fd2ee07ec7384a96a398c3e3866f9"
-  integrity sha512-DA65VCJRetcFmJnt9/hEmRvXNCwk0V86dxG6p6N13hzDazaLRjGdTGPGgjxZOtLuFgWzOSRX4grybmRXwQ9bSg==
+  version "7.22.3"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.22.3.tgz#838ae31893373222cd9062568e2192c670037e00"
+  integrity sha512-vrukxyW/ep8UD1UDzOYpTKQ6abgjFoeG6L+4ar9+c5TN9QnlqiOi6QK7LSR5ewm/ERyGkT/Ai6VboNrxhbr9Uw==
 
 "@docsearch/css@3.4.0", "@docsearch/css@^3.3.5":
   version "3.4.0"
@@ -526,9 +526,9 @@ postcss@^8.1.10, postcss@^8.4.23:
     source-map-js "^1.0.2"
 
 preact@^10.0.0:
-  version "10.15.0"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.15.0.tgz#14bae0afe3547ca9d45d22fda2a4266462d31cf3"
-  integrity sha512-nZSa8M2R2m1n7nJSBlzDpxRJaIsejrTO1vlFbdpFvyC8qM1iU+On2y0otfoUm6SRB5o0lF0CKDFxg6grEFU0iQ==
+  version "10.15.1"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.15.1.tgz#a1de60c9fc0c79a522d969c65dcaddc5d994eede"
+  integrity sha512-qs2ansoQEwzNiV5eAcRT1p1EC/dmEzaATVDJNiB3g2sRDWdA7b7MurXdJjB2+/WQktGWZwxvDrnuRFbWuIr64g==
 
 rollup@^3.21.0:
   version "3.23.0"
