@@ -134,9 +134,9 @@
     "@algolia/requester-common" "4.20.0"
 
 "@babel/parser@^7.23.3":
-  version "7.23.4"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.23.4.tgz#409fbe690c333bb70187e2de4021e1e47a026661"
-  integrity sha512-vf3Xna6UEprW+7t6EtOmFpHNAuxw3xqPZghy+brsnusscJRW5BMUzzHZc5ICjULee81WeUV2jjakG09MDglJXQ==
+  version "7.23.5"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.23.5.tgz#37dee97c4752af148e1d38c34b856b2507660563"
+  integrity sha512-hOOqoiNXrmGdFbhgCzu6GiURxUgM27Xwd/aPuu8RfHEZPBzL1Z54okAHAQjXfcQNwvrlkAmAp4SlRTZ45vlthQ==
 
 "@docsearch/css@3.5.2", "@docsearch/css@^3.5.2":
   version "3.5.2"
@@ -839,16 +839,16 @@ rollup@^4.2.0:
     fsevents "~2.3.2"
 
 shikiji-transformers@^0.7.4:
-  version "0.7.4"
-  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.7.4.tgz#1d7525f9039d121fd1f25cf3e4538277585ff2c8"
-  integrity sha512-oykilNekcW2FnRGbvZm+RNWHYroSeCVMOaMMwAbxozZgpTdcJtHoA+1+MDFw6/o2hCkX88kKbxG6FwAZoUZ6WQ==
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.7.5.tgz#cc9986a560500c09c138334ea2b01655001dd68f"
+  integrity sha512-9faGNS/3xI9QP8HZI2Xa1xtMQtaVkl/ulgMIOiaKY7XcETdUsz2yzors3UQkPUO2cwbQLS376wnZe4Xik8wMBA==
   dependencies:
-    shikiji "0.7.4"
+    shikiji "0.7.5"
 
-shikiji@0.7.4, shikiji@^0.7.4:
-  version "0.7.4"
-  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.7.4.tgz#29053887ce6dbb2f2c3668048c8f86f5bc085fa3"
-  integrity sha512-N5dmPvyhH/zfcsuWysUEAMwRJDMz26LUns2VEUs5y4Ozbf5jkAODU0Yswjcf/tZAwpFnk5x3y34dupFMnF2+NA==
+shikiji@0.7.5, shikiji@^0.7.4:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.7.5.tgz#43a634853f0e32c1b9939a9d4f587c570f009561"
+  integrity sha512-He8lAcTZUVuUW+Z4VRPM+TP+HVZCe4R1qzrP7voUrmAKrFKE260YEUVgqcP7y/0ps0uVvKgVhu5vgIshGpGocQ==
   dependencies:
     hast-util-to-html "^9.0.0"
 
@@ -944,9 +944,9 @@ vfile@^6.0.0:
     vfile-message "^4.0.0"
 
 vite@^5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-5.0.2.tgz#3c94627dace83b9bf04b64eaf618038e30fb95c0"
-  integrity sha512-6CCq1CAJCNM1ya2ZZA7+jS2KgnhbzvxakmlIjN24cF/PXhRMzpM/z8QgsVJA/Dm5fWUWnVEsmtBoMhmerPxT0g==
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-5.0.4.tgz#d984d2aaa8bac30f1ca9b9eea9b97e052f88c307"
+  integrity sha512-RzAr8LSvM8lmhB4tQ5OPcBhpjOZRZjuxv9zO5UcxeoY2bd3kP3Ticd40Qma9/BqZ8JS96Ll/jeBX9u+LJZrhVg==
   dependencies:
     esbuild "^0.19.3"
     postcss "^8.4.31"
