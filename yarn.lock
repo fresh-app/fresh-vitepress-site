@@ -783,7 +783,7 @@ mrmime@^1.0.1:
   resolved "https://registry.yarnpkg.com/mrmime/-/mrmime-1.0.1.tgz#5f90c825fad4bdd41dc914eff5d1a8cfdaf24f27"
   integrity sha512-hzzEagAgDyoU1Q6yg5uI+AorQgdvMCur3FcKf7NhMKWsaYg+RnbTyHRa/9IlLF9rf455MOCtcqqrQQ83pPP7Uw==
 
-nanoid@^3.3.6:
+nanoid@^3.3.7:
   version "3.3.7"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
@@ -801,11 +801,11 @@ picocolors@^1.0.0:
   integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
 
 postcss@^8.4.31:
-  version "8.4.31"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.31.tgz#92b451050a9f914da6755af352bdc0192508656d"
-  integrity sha512-PS08Iboia9mts/2ygV3eLpY5ghnUcfLV/EXTOW1E2qYxJKGGBUtNjN76FYHnMs36RmARn41bC0AZmn+rR0OVpQ==
+  version "8.4.32"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.32.tgz#1dac6ac51ab19adb21b8b34fd2d93a86440ef6c9"
+  integrity sha512-D/kj5JNu6oo2EIy+XL/26JEDTlIbB8hw85G8StOE6L74RQAVVP5rej6wxCNqyMbR4RkPfqvezVbPw81Ngd6Kcw==
   dependencies:
-    nanoid "^3.3.6"
+    nanoid "^3.3.7"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
@@ -839,16 +839,16 @@ rollup@^4.2.0:
     fsevents "~2.3.2"
 
 shikiji-transformers@^0.7.4:
-  version "0.7.5"
-  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.7.5.tgz#cc9986a560500c09c138334ea2b01655001dd68f"
-  integrity sha512-9faGNS/3xI9QP8HZI2Xa1xtMQtaVkl/ulgMIOiaKY7XcETdUsz2yzors3UQkPUO2cwbQLS376wnZe4Xik8wMBA==
+  version "0.7.6"
+  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.7.6.tgz#56e9317f87aabd8f18f8899d94121532d720b69f"
+  integrity sha512-yTp+7JMD/aXbV9ndn14eo9IK/UNt8iDsLNyqlOmCtcldlkqWE9T2YKAlOHOTVaeDfYWUWZa2EgSXb/CBfepBrw==
   dependencies:
-    shikiji "0.7.5"
+    shikiji "0.7.6"
 
-shikiji@0.7.5, shikiji@^0.7.4:
-  version "0.7.5"
-  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.7.5.tgz#43a634853f0e32c1b9939a9d4f587c570f009561"
-  integrity sha512-He8lAcTZUVuUW+Z4VRPM+TP+HVZCe4R1qzrP7voUrmAKrFKE260YEUVgqcP7y/0ps0uVvKgVhu5vgIshGpGocQ==
+shikiji@0.7.6, shikiji@^0.7.4:
+  version "0.7.6"
+  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.7.6.tgz#ae65517af8dfbb4f861288cd888e8ecaf9aceec9"
+  integrity sha512-KzEtvSGQtBvfwVIB70kOmIfl/5rz1LC8j+tvlHXsJKAIdONNQvG1at7ivUUq3xUctqgO6fsO3AGomUSh0F+wsQ==
   dependencies:
     hast-util-to-html "^9.0.0"
 
