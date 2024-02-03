@@ -533,14 +533,14 @@ packages:
     dev: true
     optional: true
 
-  /@shikijs/core@1.0.0-beta.3:
-    resolution: {integrity: sha512-SCwPom2Wn8XxNlEeqdzycU93SKgzYeVsedjqDsgZaz4XiiPpZUzlHt2NAEQTwTnPcHNZapZ6vbkwJ8P11ggL3Q==}
+  /@shikijs/core@1.0.0-beta.5:
+    resolution: {integrity: sha512-C/MxtvK3FFCQZSsDq6OfjDHHOmyP1Jc9wO66cnE8VLEyWXzWch7Zpoc2MWuVJTSC0Pz9QxyUlsBCnroplFqoSg==}
     dev: true
 
-  /@shikijs/transformers@1.0.0-beta.3:
-    resolution: {integrity: sha512-ASQQQqxW4dANxMGw4yGkTjtMSsUaRhImv/lzJEdfJ3/eP8TVlVYnohOFQVgpLjBBYGy9P0l0oKrlbjiGosTJ/Q==}
+  /@shikijs/transformers@1.0.0-beta.5:
+    resolution: {integrity: sha512-Kd3312yH6sh8Jw0xjBFfGpXTU3Qts1bwuB19wDDoKRvJqjrkffftdSuKzhHPa+DP/L0ZFhq96xMPngzQ15rQmQ==}
     dependencies:
-      shiki: 1.0.0-beta.3
+      shiki: 1.0.0-beta.5
     dev: true
 
   /@types/estree@1.0.5:
@@ -910,10 +910,10 @@ packages:
     resolution: {integrity: sha512-Orrsjf9trHHxFRuo9/rzm0KIWmgzE8RMlZMzuhZOJ01Rnz3D0YBAe+V6473t6/H6c7irs6Lt48brULAiRWb3Vw==}
     dev: true
 
-  /shiki@1.0.0-beta.3:
-    resolution: {integrity: sha512-z7cHTNSSvwGx2DfeLwjSNLo+HcVxifgNIzLm6Ye52eXcIwNHXT0wHbhy7FDOKSKveuEHBwt9opfj3Hoc8LE1Yg==}
+  /shiki@1.0.0-beta.5:
+    resolution: {integrity: sha512-S5FV55ZH8zLicVyqlJZj8LYqh/VuUICDDNG/L9eDM9I4d69EX+FbgSnKRIuJIwLrmJfTiPoGVnH1HsHX5whP/g==}
     dependencies:
-      '@shikijs/core': 1.0.0-beta.3
+      '@shikijs/core': 1.0.0-beta.5
     dev: true
 
   /source-map-js@1.0.2:
@@ -984,8 +984,8 @@ packages:
     dependencies:
       '@docsearch/css': 3.5.2
       '@docsearch/js': 3.5.2(@algolia/client-search@4.22.1)(search-insights@2.13.0)
-      '@shikijs/core': 1.0.0-beta.3
-      '@shikijs/transformers': 1.0.0-beta.3
+      '@shikijs/core': 1.0.0-beta.5
+      '@shikijs/transformers': 1.0.0-beta.5
       '@types/markdown-it': 13.0.7
       '@vitejs/plugin-vue': 5.0.3(vite@5.0.12)(vue@3.4.15)
       '@vue/devtools-api': 7.0.14
@@ -994,7 +994,7 @@ packages:
       focus-trap: 7.5.4
       mark.js: 8.11.1
       minisearch: 6.3.0
-      shiki: 1.0.0-beta.3
+      shiki: 1.0.0-beta.5
       vite: 5.0.12
       vue: 3.4.15
     transitivePeerDependencies:
