@@ -2,7 +2,7 @@
   "packageManager": "pnpm@8.15.1+sha1.8adba2d20330c02d3856e18c4eb3819d1d3ca6aa",
   "devDependencies": {
     "vitepress": "1.0.0-rc.42",
-    "vue": "^3.4.15"
+    "vue": "^3.4.17"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
