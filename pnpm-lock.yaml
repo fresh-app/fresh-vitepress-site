@@ -183,7 +183,7 @@ packages:
     resolution: {integrity: sha512-QujhqINEElrkIfKwyyyTfbsfMAYCkylInLYMRqHy7PHc8xTBQCow73tlo/Kc7oIwBrCLf0P3YhjlOeV4v8hevQ==}
     dependencies:
       '@docsearch/react': 3.6.0(@algolia/client-search@4.22.1)(search-insights@2.13.0)
-      preact: 10.19.6
+      preact: 10.19.7
     transitivePeerDependencies:
       - '@algolia/client-search'
       - '@types/react'
@@ -875,8 +875,8 @@ packages:
       source-map-js: 1.1.0
     dev: true
 
-  /preact@10.19.6:
-    resolution: {integrity: sha512-gympg+T2Z1fG1unB8NH29yHJwnEaCH37Z32diPDku316OTnRPeMbiRV9kTrfZpocXjdfnWuFUl/Mj4BHaf6gnw==}
+  /preact@10.19.7:
+    resolution: {integrity: sha512-IJOW6cQN1fwfC17HfNOqUtAGyB8wAYshuC+jG1JiL/1+sC4yVyuA3IcF0N9vdodMJjW/lbuEF5qFsJqGNcbHbw==}
     dev: true
 
   /rfdc@1.3.1:
