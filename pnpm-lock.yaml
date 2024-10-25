@@ -343,20 +343,20 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@shikijs/core@1.22.0':
-    resolution: {integrity: sha512-S8sMe4q71TJAW+qG93s5VaiihujRK6rqDFqBnxqvga/3LvqHEnxqBIOPkt//IdXVtHkQWKu4nOQNk0uBGicU7Q==}
+  '@shikijs/core@1.22.1':
+    resolution: {integrity: sha512-bqAhT/Ri5ixV4oYsvJNH8UJjpjbINWlWyXY6tBTsP4OmD6XnFv43nRJ+lTdxd2rmG5pgam/x+zGR6kLRXrpEKA==}
 
-  '@shikijs/engine-javascript@1.22.0':
-    resolution: {integrity: sha512-AeEtF4Gcck2dwBqCFUKYfsCq0s+eEbCEbkUuFou53NZ0sTGnJnJ/05KHQFZxpii5HMXbocV9URYVowOP2wH5kw==}
+  '@shikijs/engine-javascript@1.22.1':
+    resolution: {integrity: sha512-540pyoy0LWe4jj2BVbgELwOFu1uFvRI7lg4hdsExrSXA9x7gqfzZ/Nnh4RfX86aDAgJ647gx4TCmRwACbnQSvw==}
 
-  '@shikijs/engine-oniguruma@1.22.0':
-    resolution: {integrity: sha512-5iBVjhu/DYs1HB0BKsRRFipRrD7rqjxlWTj4F2Pf+nQSPqc3kcyqFFeZXnBMzDf0HdqaFVvhDRAGiYNvyLP+Mw==}
+  '@shikijs/engine-oniguruma@1.22.1':
+    resolution: {integrity: sha512-L+1Vmd+a2kk8HtogUFymQS6BjUfJnzcWoUp1BUgxoDiklbKSMvrsMuLZGevTOP1m0rEjgnC5MsDmsr8lX1lC+Q==}
 
-  '@shikijs/transformers@1.22.0':
-    resolution: {integrity: sha512-k7iMOYuGQA62KwAuJOQBgH2IQb5vP8uiB3lMvAMGUgAMMurePOx3Z7oNqJdcpxqZP6I9cc7nc4DNqSKduCxmdg==}
+  '@shikijs/transformers@1.22.1':
+    resolution: {integrity: sha512-KvG49YFV6gV116sC4L3Sn1Rp6HXsioMKBBG373j088rw849440hm8s2r+/dgjsGLvT4p+QB7newev+5a3ARM6w==}
 
-  '@shikijs/types@1.22.0':
-    resolution: {integrity: sha512-Fw/Nr7FGFhlQqHfxzZY8Cwtwk5E9nKDUgeLjZgt3UuhcM3yJR9xj3ZGNravZZok8XmEZMiYkSMTPlPkULB8nww==}
+  '@shikijs/types@1.22.1':
+    resolution: {integrity: sha512-+45f8mu/Hxqs6Kyhfm98Nld5n7Q7lwhjU8UtdQwrOPs7BnM4VAb929O3IQ2ce+4D7SlNFlZGd8CnKRSnwbQreQ==}
 
   '@shikijs/vscode-textmate@9.3.0':
     resolution: {integrity: sha512-jn7/7ky30idSkd/O5yDBfAnVt+JJpepofP/POZ1iMOxK59cOfqIgg/Dj0eFsjOTMw+4ycJN0uhZH/Eb0bs/EUA==}
@@ -407,14 +407,14 @@ packages:
   '@vue/compiler-ssr@3.5.12':
     resolution: {integrity: sha512-eLwc7v6bfGBSM7wZOGPmRavSWzNFF6+PdRhE+VFJhNCgHiF8AM7ccoqcv5kBXA2eWUfigD7byekvf/JsOfKvPA==}
 
-  '@vue/devtools-api@7.5.3':
-    resolution: {integrity: sha512-nwz45qBxHOUdZzaYP9V3E1aFOgPpoMmNlBcGn0dsUxizlws4wJ4V6P6849yt28p5NSQ/2E3V87JXFAuk3N9Inw==}
+  '@vue/devtools-api@7.5.4':
+    resolution: {integrity: sha512-j9UC/KeYUNZ6AyCJxBROBCbogB5YHW6PZv9VnCNp2ntE4rq426Lfc8WP5B9V+rXBwqWmrgZTGYBa31CBSxdAUg==}
 
-  '@vue/devtools-kit@7.5.3':
-    resolution: {integrity: sha512-XSTXCAHshYniK3gLQfhMRDuDLLj6vHFWKVl1tvtSgZ0iJy5AXoI4U/GKGlyS2uS1hwZCSoNSGdkKtbW/pn/Iuw==}
+  '@vue/devtools-kit@7.5.4':
+    resolution: {integrity: sha512-0i7WFgc1B2TL52tstn82zlb9opSA0aIiHfkUYFXtZb8CIpmlFMTkHtgwVl6PMWNBj3LNhYou1YJCLpCYvJYYoA==}
 
-  '@vue/devtools-shared@7.5.3':
-    resolution: {integrity: sha512-i2tCUtAEQ0S8AmTuy6FSOmVKCB5ajmMaVrrw0ypX75koLSo1mssQ8zezds5IoUZHRiXBsgoGHbJGuGwyrSGhqQ==}
+  '@vue/devtools-shared@7.5.4':
+    resolution: {integrity: sha512-dwuq4YmwTyLc7eBOqX63s3JB8il7qnKsNgENglSMkUPwiItHkVAYYfPESN1rxSdYkl1RCux1l5TBidYqfUDNAA==}
 
   '@vue/reactivity@3.5.12':
     resolution: {integrity: sha512-UzaN3Da7xnJXdz4Okb/BGbAaomRHc3RdoWqTzlvd9+WBR5m3J39J1fGcHes7U3za0ruYn/iYy/a1euhMEHvTAg==}
@@ -619,8 +619,8 @@ packages:
   search-insights@2.17.2:
     resolution: {integrity: sha512-zFNpOpUO+tY2D85KrxJ+aqwnIfdEGi06UH2+xEb+Bp9Mwznmauqc9djbnBibJO5mpfUPPa8st6Sx65+vbeO45g==}
 
-  shiki@1.22.0:
-    resolution: {integrity: sha512-/t5LlhNs+UOKQCYBtl5ZsH/Vclz73GIqT2yQsCBygr8L/ppTdmpL4w3kPLoZJbMKVWtoG77Ue1feOjZfDxvMkw==}
+  shiki@1.22.1:
+    resolution: {integrity: sha512-PbJ6XxrWLMwB2rm3qdjIHNm3zq4SfFnOx0B3rEoi4AN8AUngsdyZ1tRe5slMPtn6jQkbUURLNZPpLR7Do3k78g==}
 
   source-map-js@1.2.1:
     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
@@ -994,31 +994,31 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.24.0':
     optional: true
 
-  '@shikijs/core@1.22.0':
+  '@shikijs/core@1.22.1':
     dependencies:
-      '@shikijs/engine-javascript': 1.22.0
-      '@shikijs/engine-oniguruma': 1.22.0
-      '@shikijs/types': 1.22.0
+      '@shikijs/engine-javascript': 1.22.1
+      '@shikijs/engine-oniguruma': 1.22.1
+      '@shikijs/types': 1.22.1
       '@shikijs/vscode-textmate': 9.3.0
       '@types/hast': 3.0.4
       hast-util-to-html: 9.0.3
 
-  '@shikijs/engine-javascript@1.22.0':
+  '@shikijs/engine-javascript@1.22.1':
     dependencies:
-      '@shikijs/types': 1.22.0
+      '@shikijs/types': 1.22.1
       '@shikijs/vscode-textmate': 9.3.0
       oniguruma-to-js: 0.4.3
 
-  '@shikijs/engine-oniguruma@1.22.0':
+  '@shikijs/engine-oniguruma@1.22.1':
     dependencies:
-      '@shikijs/types': 1.22.0
+      '@shikijs/types': 1.22.1
       '@shikijs/vscode-textmate': 9.3.0
 
-  '@shikijs/transformers@1.22.0':
+  '@shikijs/transformers@1.22.1':
     dependencies:
-      shiki: 1.22.0
+      shiki: 1.22.1
 
-  '@shikijs/types@1.22.0':
+  '@shikijs/types@1.22.1':
     dependencies:
       '@shikijs/vscode-textmate': 9.3.0
       '@types/hast': 3.0.4
@@ -1085,13 +1085,13 @@ snapshots:
       '@vue/compiler-dom': 3.5.12
       '@vue/shared': 3.5.12
 
-  '@vue/devtools-api@7.5.3':
+  '@vue/devtools-api@7.5.4':
     dependencies:
-      '@vue/devtools-kit': 7.5.3
+      '@vue/devtools-kit': 7.5.4
 
-  '@vue/devtools-kit@7.5.3':
+  '@vue/devtools-kit@7.5.4':
     dependencies:
-      '@vue/devtools-shared': 7.5.3
+      '@vue/devtools-shared': 7.5.4
       birpc: 0.2.19
       hookable: 5.5.3
       mitt: 3.0.1
@@ -1099,7 +1099,7 @@ snapshots:
       speakingurl: 14.0.1
       superjson: 2.2.1
 
-  '@vue/devtools-shared@7.5.3':
+  '@vue/devtools-shared@7.5.4':
     dependencies:
       rfdc: 1.4.1
 
@@ -1345,12 +1345,12 @@ snapshots:
 
   search-insights@2.17.2: {}
 
-  shiki@1.22.0:
+  shiki@1.22.1:
     dependencies:
-      '@shikijs/core': 1.22.0
-      '@shikijs/engine-javascript': 1.22.0
-      '@shikijs/engine-oniguruma': 1.22.0
-      '@shikijs/types': 1.22.0
+      '@shikijs/core': 1.22.1
+      '@shikijs/engine-javascript': 1.22.1
+      '@shikijs/engine-oniguruma': 1.22.1
+      '@shikijs/types': 1.22.1
       '@shikijs/vscode-textmate': 9.3.0
       '@types/hast': 3.0.4
 
@@ -1418,19 +1418,19 @@ snapshots:
     dependencies:
       '@docsearch/css': 3.6.2
       '@docsearch/js': 3.6.2(@algolia/client-search@4.24.0)(search-insights@2.17.2)
-      '@shikijs/core': 1.22.0
-      '@shikijs/transformers': 1.22.0
-      '@shikijs/types': 1.22.0
+      '@shikijs/core': 1.22.1
+      '@shikijs/transformers': 1.22.1
+      '@shikijs/types': 1.22.1
       '@types/markdown-it': 14.1.2
       '@vitejs/plugin-vue': 5.1.4(vite@5.4.10)(vue@3.5.12)
-      '@vue/devtools-api': 7.5.3
+      '@vue/devtools-api': 7.5.4
       '@vue/shared': 3.5.12
       '@vueuse/core': 11.1.0(vue@3.5.12)
       '@vueuse/integrations': 11.1.0(focus-trap@7.6.0)(vue@3.5.12)
       focus-trap: 7.6.0
       mark.js: 8.11.1
       minisearch: 7.1.0
-      shiki: 1.22.0
+      shiki: 1.22.1
       vite: 5.4.10
       vue: 3.5.12
     optionalDependencies:
